@@ -1,4 +1,4 @@
-function [] = main(rho)
+function [av_error,av_logloss,stabilities] = main(rho)
 %MAIN Summary of this function goes here
 %   Detailed explanation goes here
 
